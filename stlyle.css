@@ -1,5 +1,9 @@
 body{
+
+}
+.principal {
 background: #ccccc;
+padding: 3px;
 }
 #baner {
     width: 100%;
