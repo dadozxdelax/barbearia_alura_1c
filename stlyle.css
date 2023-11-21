@@ -8,9 +8,18 @@ padding: 3px;
 #baner {
     width: 100%;
 }
+h1 {
+     text-align: center;
+}
 p {
     text-align: center;
 }
+#missao {
+    font-size: 20px;
+}
 em strong {
     color: black;
+}
+.itens {
+    font-style: italic;
 }
